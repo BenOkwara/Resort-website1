@@ -1,0 +1,32 @@
+/*-------------------root------------------------*/
+*{
+	margin: 0;
+	padding: 0;
+
+}
+body{
+	overflow-x: hidden;
+	width: 100%;
+	-display: block;
+	-height: 100%;
+}
+/*-------------------hero-image-----------------------*/
+.Hero-image img{
+  height: 650px;
+  width: 100%;
+}
+/*--------------------nav_bar--------------------------*/
+.nav-bar{
+  margin-top: -450px;
+  margin-left: 60px;
+  background-color: rgba(0,0,0,.5);
+  height: 200px;
+  width: 200px,
+}
+.nav-bar li{
+  list-style: block;
+}
+.nav-bar a{
+  text-decoration: none;
+
+}
